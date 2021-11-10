@@ -1,0 +1,15 @@
+body{
+    font-size: 62.5%;
+}
+button {
+    margin: 2rem;
+    padding: 2rem 4rem;
+    background: none;
+    border: 2px solid rgba(111, 82, 207);
+    color: rgba(111, 82, 207);
+    font-size: 2.4rem;
+    border-radius: 2px 3px ;
+    height: 200px;
+    width: 200px ;
+
+}
